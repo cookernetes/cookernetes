@@ -1,12 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Psuedodoro)
 # Hi there, I'm Psuedodoro! 👋
 
-If you are looking for any of my old projects, repositories or code - they are no longer on my GitHub account. They do however have a new home on GitLab which is where they will stay. The reason behind this is because sadly, people take the mickey out of my old projects and I do not respect or want that anymore. So, from now on - my GitHub will be for all of my main projects and repos and my [GitLab](https://gitlab.com/Psuedodoro) account will be like an archive or vault if you will for all my old repos.
-
-Hope you understand,
-
--Psuedodoro
-
+If you are wondering where my repos have gone, please read [this statement](RepoStatement.md) where I explain it all (it's not too long dont worry)!
 
 ## I usually do these things:
 
