@@ -3,6 +3,11 @@
 
 If you are wondering where my repos have gone, please read [this statement](RepoStatement.md) where I explain it all (it's not too long dont worry)!
 
+## My other internet aliases:
+- 16tps - Used for minecraft, steam and more games!
+- Elit3Bear - Depreciated (still is a username for one of my minecraft accounts though)
+- Bear - Depreciated
+
 ## I usually do these things:
 
 - 🎮 Gaming
