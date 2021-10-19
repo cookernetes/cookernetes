@@ -3,6 +3,8 @@
 
 If you are wondering where my repos have gone, please read [this statement](RepoStatement.md) where I explain it all (it's not too long dont worry)!
 
+Also, if you are wondering why my activity is low (the block graph thingy), it is because every single day I am actively coding - just on a private repo for SimsRedux.
+
 ## My other internet aliases:
 - 16tps - Used for minecraft, steam and more games!
 - Elit3Bear - Depreciated (still is a username for one of my minecraft accounts though)
