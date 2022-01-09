@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Psuedodoro)
-# Hi there, I'm Psuedodoro! 👋
+# Hi there, I'm Foxy! 👋
 
 If you are wondering where my repos have gone, please read [this statement](RepoStatement.md) where I explain it all (it's not too long dont worry)!
 
