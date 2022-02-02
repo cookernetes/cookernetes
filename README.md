@@ -89,3 +89,8 @@ Thanks for reading my profile readme, I greatly appreciate it and hope you enjoy
 ## Credits and Friends:
 - @Conqu3red - One of my friends that is also on github
 - @Ileriayo - Thanks for the markdown badges buddy :)
+
+
+![Psuedodoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=psuedodoro&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psuedodoro&layout=compact&theme=synthwave)
