@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **My Career.**
 
-- 📫 How to reach me **Foxxxy#2631**
+- 📫 Add me on Discord at **deadhash#0001**
 
 - ⚡ Fun fact **I'm not funny.**
 
