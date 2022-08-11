@@ -1,5 +1,5 @@
 <h1 align="center">I'm Deadhash.</h1>
-<h3 align="center">I'm a passionate Full Stack developer and Security Researcher.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Security Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadhash&label=Profile%20views&color=0e75b6&style=flat" alt="deadhash" /> </p>
 
