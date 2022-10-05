@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadhash&label=Profile%20views&color=0e75b6&style=flat" alt="deadhash" /> </p>
 
-- 🔭 I’m currently working on the **NecroAssistance Discord Bot**
+- 🔭 I’m currently working on **nothing personal at the moment.**
 
 - 🌱 I’m currently learning **The Spanish Language.**
 
-- 💬 Ask me about **My Career.**
+- 📫 Add me on Discord at **deadhash#7097**
 
-- 📫 Add me on Discord at **deadhash#0001**
-
-- ⚡ Fun fact **I'm not funny.**
+- ⚡ Fun fact - **React is overrated. 😳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
