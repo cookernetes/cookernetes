@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **The Spanish Language.**
 
-- 📫 Add me on Discord at **cookernetes#7097**
+- 📫 Add me on Discord at **cookernetes#4792**
 
-- ⚡ Fun fact - **React is overrated. 😳**
+- ⚡ Fun fact - **TypeScript and React is quite underappreciated ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
